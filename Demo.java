@@ -1,3 +1,10 @@
+{
+DNKL
+CTC
+BBSR
+BLR
+DEL
+}
 
 Prob {
 SBI
