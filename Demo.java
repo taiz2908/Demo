@@ -1,3 +1,12 @@
+currency {
+DOLLAR
+EURO
+RUPEES
+DHIRAM
+DHAKA
+
+}
+
 
 Prob {
 SBI
