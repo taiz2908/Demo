@@ -4,17 +4,21 @@ CTC
 BBSR
 BLR
 DEL
-}
 
-Prob {
+currency {
+DOLLAR
+EURO
+RUPEES
+DHIRAM
+DHAKA
+
+
+{
 SBI
 AXIS
 ICICI
 HDFC
-
 }
-
-
 Newcode {
 Bank Transaction 
 }
